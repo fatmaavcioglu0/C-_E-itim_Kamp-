@@ -24,4 +24,4 @@ Bu Repostory, Murat Yücedağ'ın C# Eğitim Kampı'nda C# üzerine edindiğim b
 📍 Proje 8 - Methods: Bu proje metotların tanımlanması ve metot türleri (parametre alıp almamasına ve geriye değer döndürüp döndürmemesine bağlı olarak) ile ilgili bilgiler içermektedir.
 
 --------------------------------------------------------------------------------------------
-📍 Proje 9- DataBase Project: Bu proje SQL ile nasıl veritabanı oluşturulacağı ve C#'ın bu veri tabanı ile nasıl bağlantı (connection) kurmasının sağlanacağı ile ilgili bilgiler içermektedir
+📍 Proje 9- DataBase Project: Bu proje SQL ile nasıl veritabanı oluşturulacağı ve C#'ın bu veri tabanı ile nasıl bağlantı (connection) kurmasının sağlanacağı ile ilgili bilgiler içermektedir.
