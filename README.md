@@ -1,4 +1,4 @@
-Bu Repostory, Murat Yücedağ'ın C# Eğitim Kampı'nda C# üzerine edindiğim bilgiler ve projelerle ilgilidir. Tamamladığım her proje ile ilgili görüşlerim ve kısa bilgilendirmeler şu şekildeddir:
+Bu Repostory, Murat Yücedağ'ın C# Eğitim Kampı'nda C# üzerine edindiğim bilgiler ve projelerle ilgilidir. Tamamladığım her proje ile ilgili kısa bilgilendirmeler şu şekildedir:
 
 📍 Proje 1 - MainSubjects: Bu proje C#'ın temel syntax bilgileri,  ekrana çıktı vermek gibi temel işlemleri içermektedir. 
 
