@@ -3,7 +3,7 @@ Bu Repostory, Murat Yücedağ'ın C# Eğitim Kampı'nda C# üzerine edindiğim b
 📍 Proje 1 - MainSubjects: Bu proje C#'ın temel syntax bilgileri,  ekrana çıktı vermek gibi temel işlemleri içermektedir. 
 
 --------------------------------------------------------------------------------------------
-📍 Proje 2 - Variables: Bu proje veri türleri, hangi veri türünün nerede kullanılması ve konsoldan veri girişinin nasıl yapılacağı ile ilgili bilgileri içermektedir.
+📍 Proje 2 - Variables: Bu proje veri türleri, doğru veri türünü kullanarak tanımlaar yapma ve konsoldan veri girişinin nasıl yapılacağı ile ilgili bilgileri içermektedir.
 
 --------------------------------------------------------------------------------------------
 📍 Proje 3 - Desicion Stuctures: Bu proje if-else, switch-case karar yapılarının kullanımı ile ilgili bilgiler içermektedir.
