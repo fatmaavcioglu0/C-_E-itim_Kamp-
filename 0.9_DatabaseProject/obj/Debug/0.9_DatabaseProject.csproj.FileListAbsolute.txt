@@ -1,7 +1,0 @@
-D:\OOP\C# EGITIM KAMPI\C#_Eğitim_Kampı\0.9_DatabaseProject\bin\Debug\0.9_DatabaseProject.exe.config
-D:\OOP\C# EGITIM KAMPI\C#_Eğitim_Kampı\0.9_DatabaseProject\bin\Debug\0.9_DatabaseProject.exe
-D:\OOP\C# EGITIM KAMPI\C#_Eğitim_Kampı\0.9_DatabaseProject\bin\Debug\0.9_DatabaseProject.pdb
-D:\OOP\C# EGITIM KAMPI\C#_Eğitim_Kampı\0.9_DatabaseProject\obj\Debug\0.9_DatabaseProject.csproj.AssemblyReference.cache
-D:\OOP\C# EGITIM KAMPI\C#_Eğitim_Kampı\0.9_DatabaseProject\obj\Debug\0.9_DatabaseProject.csproj.CoreCompileInputs.cache
-D:\OOP\C# EGITIM KAMPI\C#_Eğitim_Kampı\0.9_DatabaseProject\obj\Debug\0.9_DatabaseProject.exe
-D:\OOP\C# EGITIM KAMPI\C#_Eğitim_Kampı\0.9_DatabaseProject\obj\Debug\0.9_DatabaseProject.pdb
