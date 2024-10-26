@@ -1,0 +1,7 @@
+D:\OOP\C# EGITIM KAMPI\C#_Eğitim_Kampı\0.8_Methods\bin\Debug\0.8_Methods.exe.config
+D:\OOP\C# EGITIM KAMPI\C#_Eğitim_Kampı\0.8_Methods\bin\Debug\0.8_Methods.exe
+D:\OOP\C# EGITIM KAMPI\C#_Eğitim_Kampı\0.8_Methods\bin\Debug\0.8_Methods.pdb
+D:\OOP\C# EGITIM KAMPI\C#_Eğitim_Kampı\0.8_Methods\obj\Debug\0.8_Methods.csproj.AssemblyReference.cache
+D:\OOP\C# EGITIM KAMPI\C#_Eğitim_Kampı\0.8_Methods\obj\Debug\0.8_Methods.csproj.CoreCompileInputs.cache
+D:\OOP\C# EGITIM KAMPI\C#_Eğitim_Kampı\0.8_Methods\obj\Debug\0.8_Methods.exe
+D:\OOP\C# EGITIM KAMPI\C#_Eğitim_Kampı\0.8_Methods\obj\Debug\0.8_Methods.pdb
