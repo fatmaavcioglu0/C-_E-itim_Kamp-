@@ -1,0 +1,7 @@
+D:\OOP\C# EGITIM KAMPI\C#_Eğitim_Kampı\1.0_DatabaseCrud\bin\Debug\1.0_DatabaseCrud.exe.config
+D:\OOP\C# EGITIM KAMPI\C#_Eğitim_Kampı\1.0_DatabaseCrud\bin\Debug\1.0_DatabaseCrud.exe
+D:\OOP\C# EGITIM KAMPI\C#_Eğitim_Kampı\1.0_DatabaseCrud\bin\Debug\1.0_DatabaseCrud.pdb
+D:\OOP\C# EGITIM KAMPI\C#_Eğitim_Kampı\1.0_DatabaseCrud\obj\Debug\1.0_DatabaseCrud.csproj.AssemblyReference.cache
+D:\OOP\C# EGITIM KAMPI\C#_Eğitim_Kampı\1.0_DatabaseCrud\obj\Debug\1.0_DatabaseCrud.csproj.CoreCompileInputs.cache
+D:\OOP\C# EGITIM KAMPI\C#_Eğitim_Kampı\1.0_DatabaseCrud\obj\Debug\1.0_DatabaseCrud.exe
+D:\OOP\C# EGITIM KAMPI\C#_Eğitim_Kampı\1.0_DatabaseCrud\obj\Debug\1.0_DatabaseCrud.pdb
