@@ -27,4 +27,4 @@ Bu Repostory, Murat Yücedağ'ın C# Eğitim Kampı'nda C# üzerine edindiğim b
 📍 Proje 9 - DataBase Project: Bu proje SQL ile nasıl veritabanı oluşturulacağı ve C#'ın bu veri tabanı ile nasıl bağlantı (connection) kurmasının sağlanacağı ile ilgili bilgiler içermektedir.
 
 --------------------------------------------------------------------------------------------
-📍 Proje 10 - Database Crud: Bu proje SQL veritabanında hazırlanan bir tablo üzerinde nasıl ekleme(Create), okuma(Read), güncelleme(Update) ve silme(Delete) yapılacağı ile ilgili bilgileri içermektedir.
+📍 Proje 10 - Database Crud: Bu proje SQL veritabanında hazırlanan bir tablo üzerinde nasıl ekleme(Create), okuma(Read), güncelleme(Update) ve silme(Delete) yapılacağı ile ilgili bilgiler içermektedir.
